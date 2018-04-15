@@ -1,4 +1,6 @@
 file1
 publish mergerTwoLinkedlist{
-  ListNode listNode 
+  ListNode listNode
+  ListNode dummyHead = null;
+  
 }
